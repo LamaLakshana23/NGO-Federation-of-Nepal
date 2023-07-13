@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body header {
+  background-color: #1268c5;
+  padding: 10px;
+}
+body header .r1 a {
+  text-decoration: none;
+  color: white;
+}
+body #s1 .item #box {
+  height: 100vh;
+  width: 100vw;
+}
+body #s2 {
+  padding: 20px;
+  background-color: #F5FAFE;
+}
+body #s2 h1 {
+  border-top: 2px solid rgb(90, 141, 189);
+  border-bottom: 2px solid rgb(90, 141, 189);
+  width: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+body #s4 {
+  padding: 20px;
+  background-color: #1268c5;
+}
+body #s4 h1 {
+  border-top: 2px solid rgb(238, 242, 245);
+  border-bottom: 2px solid rgb(234, 239, 243);
+  color: white;
+  width: 10%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+body #s4 .row123 .cont {
+  padding: 10px;
+}
+body #s4 .row123 .cont #box1 {
+  padding: 20px;
+  background-color: #F5FAFE;
+}
+body #s4 .row123 .cont #box1 img {
+  width: 100%;
+  height: 100%;
+}
+body #s4 .row123 .cont #box1 a {
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+}
+body #s4 .row123 .cont #box1 button {
+  border: none;
+  background-color: #1268c5;
+  color: white;
+  padding: 7px;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+body #s5 {
+  padding: 20px;
+}
+body #s5 .container h1 {
+  border-top: 2px solid rgb(20, 138, 228);
+  border-bottom: 2px solid rgb(35, 126, 201);
+  color: rgb(20, 19, 19);
+  width: 35%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+body #s5 .container .rowa123 {
+  padding: 20px;
+  border: 1px solid black;
+  box-shadow: 5px 5px 5px 5px rgba(59, 55, 55, 0.5);
+}
+body footer {
+  background-color: #1268c5;
+  color: white;
+}
+body footer .wor .cola5 a {
+  text-decoration: none;
+  color: white;
+}/*# sourceMappingURL=ngo.css.map */
